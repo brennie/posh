@@ -25,4 +25,4 @@ function global:prompt
     return "> "
 }
 
-Set-Alias subl "C:\Program Files\Subliem Text 3\sublime_text.exe"
+Set-Alias subl "C:\Program Files\Sublime Text 3\sublime_text.exe"
